@@ -1,7 +1,3 @@
-Here’s a simple `README.md` file that explains how to use the Terraform project:
-
----
-
 # Terraform AWS VPC and EC2 Infrastructure
 
 This Terraform project creates an AWS Virtual Private Cloud (VPC), a subnet, a security group, and an EC2 instance. The VPC has public subnets and security group rules to allow SSH access. The EC2 instance is launched within the created VPC and associated with the created security group.
